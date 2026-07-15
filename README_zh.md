@@ -2,6 +2,38 @@
 
 ---
 
+## 高频工具直达
+
+官网入口：[Toolsku 在线工具箱](https://www.toolsku.com/)
+
+以下是用户搜索频率较高、适合作为外链入口的工具：
+
+| 分类 | 工具 |
+|---|---|
+| 图片工具 | [图片压缩](https://www.toolsku.com/zh-CN/image/compress) |
+| 图片工具 | [PNG 压缩](https://www.toolsku.com/zh-CN/image/png-compress) |
+| 图片工具 | [JPG 压缩](https://www.toolsku.com/zh-CN/image/jpg-compress) |
+| 图片工具 | [图片格式互转](https://www.toolsku.com/zh-CN/image/convert) |
+| PDF 工具 | [PDF 转 Word](https://www.toolsku.com/zh-CN/pdf/to-word) |
+| PDF 工具 | [PDF 转 Excel](https://www.toolsku.com/zh-CN/pdf/to-excel) |
+| PDF 工具 | [PDF 转图片](https://www.toolsku.com/zh-CN/pdf/pdf-to-images) |
+| JSON 工具 | [JSON 格式化](https://www.toolsku.com/zh-CN/json/format) |
+| 实用工具 | [银行卡 BIN 查询](https://www.toolsku.com/zh-CN/utils/bankcard-bin) |
+| 实用工具 | [二维码生成](https://www.toolsku.com/zh-CN/encode/qr) |
+| 实用工具 | [二维码识别](https://www.toolsku.com/zh-CN/encode/qr-decode) |
+| 实用工具 | [Wi-Fi 二维码生成](https://www.toolsku.com/zh-CN/encode/wifi-qr) |
+| 视频工具 | [视频压缩](https://www.toolsku.com/zh-CN/video/compress) |
+| 实用工具 | [工时计算器](https://www.toolsku.com/zh-CN/utils/work-hours) |
+| 实用工具 | [UUID 生成器](https://www.toolsku.com/zh-CN/utils/uuid) |
+| 实用工具 | [条形码生成器](https://www.toolsku.com/zh-CN/utils/barcode) |
+| 实用工具 | [汇率换算](https://www.toolsku.com/zh-CN/utils/exchange-rate) |
+| 实用工具 | [贷款计算器](https://www.toolsku.com/zh-CN/utils/loan-calc) |
+| 实用工具 | [房贷计算器](https://www.toolsku.com/zh-CN/utils/mortgage-calc) |
+| 实用工具 | [BMI 计算器](https://www.toolsku.com/zh-CN/utils/bmi) |
+| 实用工具 | [番茄钟](https://www.toolsku.com/zh-CN/utils/pomodoro) |
+
+---
+
 ## 欢迎贡献
 
 欢迎大家给工具库 **toolsku** 提问题或优化意见，我会第一时间跟进并优化解决！无论是功能需求、Bug 反馈还是使用体验上的建议，都欢迎通过 Issue 提交交流。

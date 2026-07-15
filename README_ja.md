@@ -2,6 +2,38 @@
 
 ---
 
+## 人気ツールへの直接リンク
+
+公式サイト：[Toolsku オンラインツールボックス](https://www.toolsku.com/)
+
+検索されやすく、外部入口として使いやすい主要ツール：
+
+| カテゴリ | ツール |
+|---|---|
+| 画像ツール | [画像圧縮](https://www.toolsku.com/ja/image/compress) |
+| 画像ツール | [PNG 圧縮](https://www.toolsku.com/ja/image/png-compress) |
+| 画像ツール | [JPG 圧縮](https://www.toolsku.com/ja/image/jpg-compress) |
+| 画像ツール | [画像フォーマット変換](https://www.toolsku.com/ja/image/convert) |
+| PDF ツール | [PDF から Word](https://www.toolsku.com/ja/pdf/to-word) |
+| PDF ツール | [PDF から Excel](https://www.toolsku.com/ja/pdf/to-excel) |
+| PDF ツール | [PDF から画像](https://www.toolsku.com/ja/pdf/pdf-to-images) |
+| JSON ツール | [JSON フォーマッター](https://www.toolsku.com/ja/json/format) |
+| ユーティリティ | [銀行カード BIN 検索](https://www.toolsku.com/ja/utils/bankcard-bin) |
+| ユーティリティ | [QR コード生成](https://www.toolsku.com/ja/encode/qr) |
+| ユーティリティ | [QR コード読み取り](https://www.toolsku.com/ja/encode/qr-decode) |
+| ユーティリティ | [Wi-Fi QR コード生成](https://www.toolsku.com/ja/encode/wifi-qr) |
+| 動画ツール | [動画圧縮](https://www.toolsku.com/ja/video/compress) |
+| ユーティリティ | [勤務時間計算](https://www.toolsku.com/ja/utils/work-hours) |
+| ユーティリティ | [UUID 生成](https://www.toolsku.com/ja/utils/uuid) |
+| ユーティリティ | [バーコード生成](https://www.toolsku.com/ja/utils/barcode) |
+| ユーティリティ | [為替レート換算](https://www.toolsku.com/ja/utils/exchange-rate) |
+| ユーティリティ | [ローン計算機](https://www.toolsku.com/ja/utils/loan-calc) |
+| ユーティリティ | [住宅ローン計算機](https://www.toolsku.com/ja/utils/mortgage-calc) |
+| ユーティリティ | [BMI 計算機](https://www.toolsku.com/ja/utils/bmi) |
+| ユーティリティ | [ポモドーロタイマー](https://www.toolsku.com/ja/utils/pomodoro) |
+
+---
+
 ## ご意見をお待ちしています
 
 ツールキット **toolsku** へのご質問や改善のご提案をお待ちしております。いただいたフィードバックには迅速に対応し、最適化に努めます！機能リクエスト、バグ報告、ユーザー体験に関するご提案など、Issue からお気軽にお寄せください。

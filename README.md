@@ -2,6 +2,38 @@
 
 ---
 
+## Popular Tools
+
+Official website: [Toolsku](https://www.toolsku.com/)
+
+High-frequency tools that users often search for:
+
+| Category | Tool |
+|---|---|
+| Image | [Image Compressor](https://www.toolsku.com/en/image/compress) |
+| Image | [PNG Compressor](https://www.toolsku.com/en/image/png-compress) |
+| Image | [JPG Compressor](https://www.toolsku.com/en/image/jpg-compress) |
+| Image | [Image Format Converter](https://www.toolsku.com/en/image/convert) |
+| PDF | [PDF to Word](https://www.toolsku.com/en/pdf/to-word) |
+| PDF | [PDF to Excel](https://www.toolsku.com/en/pdf/to-excel) |
+| PDF | [PDF to Images](https://www.toolsku.com/en/pdf/pdf-to-images) |
+| JSON | [JSON Formatter](https://www.toolsku.com/en/json/format) |
+| Utility | [Bankcard BIN Lookup](https://www.toolsku.com/en/utils/bankcard-bin) |
+| Utility | [QR Code Generator](https://www.toolsku.com/en/encode/qr) |
+| Utility | [QR Code Reader](https://www.toolsku.com/en/encode/qr-decode) |
+| Utility | [Wi-Fi QR Code Generator](https://www.toolsku.com/en/encode/wifi-qr) |
+| Video | [Video Compressor](https://www.toolsku.com/en/video/compress) |
+| Utility | [Work Hours Calculator](https://www.toolsku.com/en/utils/work-hours) |
+| Utility | [UUID Generator](https://www.toolsku.com/en/utils/uuid) |
+| Utility | [Barcode Generator](https://www.toolsku.com/en/utils/barcode) |
+| Utility | [Exchange Rate Converter](https://www.toolsku.com/en/utils/exchange-rate) |
+| Utility | [Loan Calculator](https://www.toolsku.com/en/utils/loan-calc) |
+| Utility | [Mortgage Calculator](https://www.toolsku.com/en/utils/mortgage-calc) |
+| Utility | [BMI Calculator](https://www.toolsku.com/en/utils/bmi) |
+| Utility | [Pomodoro Timer](https://www.toolsku.com/en/utils/pomodoro) |
+
+---
+
 ## Welcome to Contribute
 
 Welcome to submit issues or feedback for **toolsku**! I will follow up and resolve them as soon as possible. Whether it's feature requests, bug reports, or UX suggestions, all kinds of input are highly appreciated.

@@ -2,6 +2,38 @@
 
 ---
 
+## 熱門工具直達
+
+官網入口：[Toolsku 線上工具箱](https://www.toolsku.com/)
+
+以下是使用者搜尋頻率較高、適合作為外部入口的工具：
+
+| 分類 | 工具 |
+|---|---|
+| 圖片工具 | [圖片壓縮](https://www.toolsku.com/zh-TW/image/compress) |
+| 圖片工具 | [PNG 壓縮](https://www.toolsku.com/zh-TW/image/png-compress) |
+| 圖片工具 | [JPG 壓縮](https://www.toolsku.com/zh-TW/image/jpg-compress) |
+| 圖片工具 | [圖片格式互轉](https://www.toolsku.com/zh-TW/image/convert) |
+| PDF 工具 | [PDF 轉 Word](https://www.toolsku.com/zh-TW/pdf/to-word) |
+| PDF 工具 | [PDF 轉 Excel](https://www.toolsku.com/zh-TW/pdf/to-excel) |
+| PDF 工具 | [PDF 轉圖片](https://www.toolsku.com/zh-TW/pdf/pdf-to-images) |
+| JSON 工具 | [JSON 格式化](https://www.toolsku.com/zh-TW/json/format) |
+| 實用工具 | [銀行卡 BIN 查詢](https://www.toolsku.com/zh-TW/utils/bankcard-bin) |
+| 實用工具 | [QR 碼生成](https://www.toolsku.com/zh-TW/encode/qr) |
+| 實用工具 | [QR 碼辨識](https://www.toolsku.com/zh-TW/encode/qr-decode) |
+| 實用工具 | [Wi-Fi QR 碼生成](https://www.toolsku.com/zh-TW/encode/wifi-qr) |
+| 影片工具 | [影片壓縮](https://www.toolsku.com/zh-TW/video/compress) |
+| 實用工具 | [工時計算器](https://www.toolsku.com/zh-TW/utils/work-hours) |
+| 實用工具 | [UUID 產生器](https://www.toolsku.com/zh-TW/utils/uuid) |
+| 實用工具 | [條碼產生器](https://www.toolsku.com/zh-TW/utils/barcode) |
+| 實用工具 | [匯率換算](https://www.toolsku.com/zh-TW/utils/exchange-rate) |
+| 實用工具 | [貸款計算器](https://www.toolsku.com/zh-TW/utils/loan-calc) |
+| 實用工具 | [房貸計算器](https://www.toolsku.com/zh-TW/utils/mortgage-calc) |
+| 實用工具 | [BMI 計算器](https://www.toolsku.com/zh-TW/utils/bmi) |
+| 實用工具 | [番茄鐘](https://www.toolsku.com/zh-TW/utils/pomodoro) |
+
+---
+
 ## 歡迎貢獻
 
 歡迎大家給工具庫 **toolsku** 提問題或優化意見，我會第一時間跟進並優化解決！無論是功能需求、Bug 回饋還是使用體驗上的建議，都歡迎透過 Issue 提交交流。
